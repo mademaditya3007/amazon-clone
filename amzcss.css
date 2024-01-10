@@ -1,0 +1,480 @@
+.logo{
+    background-image:url("amazon_logo.png");
+    background-size:cover;
+    height:50px;
+    width:113px;
+    
+    
+    /* padding:0px 7px 0px 5px; */
+
+    
+}
+.navbar{
+    height:60px;
+    display:flex;
+    align-items: center;
+    width:100%;
+    justify-content:space-evenly
+    
+}
+.contain-add{
+    display:block;
+    margin-left:10px;
+    width:86.64px;
+
+}
+.contain-add:hover{
+    border-style:solid;
+    border-width:1px;
+    border-color:#ffffff
+    
+}
+.container-logo:hover{
+    border-style:solid;
+    border-color:#ffffff;
+    border-width:1px;
+}
+#m12{
+    color:#ffffff;
+    display:flex;
+}
+#l13{
+    color:#ffffff;
+    margin:0px;
+}
+#l12{
+    margin-top:0px;
+    color:#cccccc;
+    font-size:12px;
+    font-family:arial;
+    margin-left:12px;
+    margin-bottom:0px;
+}
+#l13{
+    text-indent:3px;
+}
+.navbar{
+    background-color:#0f1111;
+}
+body{
+    margin:0px;
+}
+.container-logo{
+    width:113px;
+    height:50px;
+    border-color:#ffffff;
+}
+.searchbar{
+    width:900px;
+    display:flex;
+    color:#ffffff;
+    margin-left:10px;
+    border-radius:5px;
+    height:40px;
+    overflow:hidden;
+    /* align-items:center; */
+}
+#m14:hover{
+    border-color:#e72f16;
+    border-width:2px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    
+}
+#m13:focus{
+    .searchbar{
+        border-color:#e72f16;
+    }
+}
+#m13{
+    width:100%;
+    border:0px;
+    height:40px;
+    z-index: index 0;
+}
+#m14
+{
+    
+    background-color:#f3f3f3;
+    text-align:center;
+    border:0px;
+    height:42px;
+}
+.search{
+    background-color:#ffe100;
+    color:#000000;
+    height:40px;
+    width:45px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size:20px;
+}
+.flag{
+    width:21.6px;
+    height:16.2px;
+    background-image:url("a-flag.webp");
+    background-size:cover;
+    
+}
+.counter-pad{
+    width:73.38px;
+    height:60px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+.counter-pad:hover{
+    border-style:solid;
+    border-color:#ffffff;
+    border-width:1px;
+    height:50px;
+}
+.country{
+    display:flex;
+    
+}
+
+#m15{
+    background-color:#000000;
+    color:#ffffff;
+    border-style:none;
+    font-size:14px;
+    font-weight:bold;
+}
+#m15:hover,#m15:active{
+    border:none;
+    border-color:#000000
+}
+.sign-in{
+    color:#ffffff;
+    flex-wrap:wrap;
+    display:block;
+    align-items:center;
+   
+}
+#m16{
+    background-color:#000000;
+    color:#ffffff;
+    border-color:#000000;
+    font-size:14px;
+    font-weight:700;
+}
+.sign-in-pad{
+    width:131.53px;
+    height:60px;
+    display:flex;
+    align-items:flex-start;
+
+}
+.sign-in:hover{
+    border-style:solid;
+    border-color:#ffffff;
+    border-width:1px;
+    
+}
+#l17{
+    margin-bottom:0px;
+    margin-top:0px;
+    margin-left:6.5px;
+    font-size:12px;
+    font-weight:bold;
+    letter-spacing:0.5px;
+}
+.returns{
+    color:#ffffff;
+    width:60.95px;
+    flex-wrap:wrap;
+    display:flex;
+    justify-content:center;
+    align-content:center;
+    align-items:center;
+    overflow:hidden;
+}
+#l18{
+    font-size:12px;
+    text-indent:0px;
+   margin-bottom:0px;
+    width:57.94px;
+}
+#l19{
+    font-size:14px;
+    height:15px;
+    font-weight:700;
+    margin-top:0px;
+}
+
+#l21{
+    font-size:30px;
+    margin-right:7px;
+}
+#l20{
+    font-weight:700;
+    margin-bottom:0px;
+}
+.cart{
+    align-items:center;
+    color:#ffffff;
+    display:flex;
+    width:80px;
+}
+.header2-pad{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:#222f3d;
+    height:39px;
+    padding-left:11px;
+}
+.header2-pad a{
+    text-decoration:none;
+    color:#ffffff;
+   
+
+}
+
+.search1{
+    width:200px;
+}
+.header2{
+    display:flex;
+    
+    width:100%;
+}
+.header2 a{
+    margin-right:14px;
+}
+.all-pad i{
+    width:17px;
+    height:14px;
+    color:#ffffff;
+    font-size:20px;
+    margin-right:4px;
+}
+.all{
+    display:flex;
+    justify-content:center;
+}
+.all-pad{
+    padding:8px;
+    padding-right:9px;
+}
+.search1 a{
+    font-weight:bolder;
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    width:105px;
+}
+.search1 a:hover{
+    border-style:solid;
+    padding:10px;
+    margin-top:0px;
+    border-width:1px;
+    align-items:center;
+    margin-bottom:8px;
+}
+.hero-sect{
+    background-image:url("hero_image.jpg");
+    height:350px;
+    background-size:cover;
+}
+.hero-overlay{
+    background-color:#f5f6f6;
+    display:flex;
+    height:40px;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+    margin-bottom:30px;
+}
+
+.hero-overlay a{
+    color:#007185;
+    text-decoration:none;
+}
+.hero-overlay a:hover{
+    color:#e72f16;
+    text-decoration:underline;
+}
+.hero-sect{
+    display:flex;
+    align-items:flex-end;
+    justify-content:center;
+    
+    
+}
+.hero-overlay-pad{
+    width:80%;
+}
+.select-sect{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    background-color:#cccccc;
+}
+.box1,.box2,.box3,.box4,.box5,.box6,.box7,.box8{
+    width:24%;
+    height:385px;
+    background-color:#ffffff;
+    margin-top:10px;
+    padding-top:20px;
+    padding-bottom:15px;
+    margin-bottom:10px;
+}
+
+.head-box1{
+    color:#0f1111;
+    font-size:21px;
+    margin-top:0px;
+    padding-top:0px;
+    font-weight:700;
+}
+.head-box1 p{
+    margin-top:0px;
+    font-weight:700;
+    
+}
+.head-box1-pad{
+    padding:20px;
+    padding-top:0px;
+    padding-bottom:15px;
+}
+.frame-after,.frame-after-b2,.frame-after-b3,.frame-after-b4,.frame-after-b5,.frame-after-b6,.frame-after-b7,.frame-after-b8{
+    width:99%;
+    height:304px;
+    background-image:url("toys.jpg");
+    background-size:cover;
+    overflow:hidden;
+}
+.frame-after-pad{
+    padding:0px 20px 0px 20px;
+}
+.box1 a,.box2 a,.box4 a,.box5 a,.box6 a,.box7 a,.box8 a,.box3 a{
+    color:#007185;
+    height:19px;
+    text-decoration:none;
+}
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.frame-after-b2{
+    background-image:url("pcs.jpg");
+
+}
+.frame-after-b3{
+    background-image:url("box3_image.jpg");
+
+}
+.frame-after-b4{
+    background-image:url("box2_image.jpg");
+
+}
+.frame-after-b5{
+    background-image:url("box4_image.jpg");
+
+}
+.frame-after-b6{
+    background-image:url("box5_image.jpg");
+
+}
+.frame-after-b7{
+    background-image:url("box6_image.jpg");
+
+}
+.frame-after-b8{
+    background-image:url("box7_image.jpg");
+
+}
+
+/* before footer*/
+.before-footer{
+    padding-top:15px;
+    padding-bottom:15px;
+    background-color:#37475a;
+    text-align:center;
+    
+}
+.before-footer a{
+    text-decoration:none;
+    color:#ffffff;
+    font-size:13px;
+    height:19px;
+}
+/* .frame-after-b2{
+    display:flex;
+    flex-direction: row;
+} */
+/* footer*/
+ul{
+    list-style-type:none;
+}
+
+.list1 p{
+font-size:16px;
+font-weight:700;
+/* margin-top:100px; */
+
+}
+.m17{
+    color:#ffffff;
+    background-color: #222f3d;
+    height:400px;
+    display:flex;
+    justify-content: space-evenly;
+    padding:50px
+}
+li{
+    font-size:14px;
+    margin-bottom: 12px;
+    color:#dddddd;
+}
+.list1{
+    width:184.33px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom:30px;
+}
+.hr-footer{
+    color:#ffffff;
+    background-color: #222f3d;
+    border-top-style:solid;
+    border-width:0.2px;
+    height:68px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+.hr-logo{
+    background-image:url("amazon_logo.png");
+    width:113px;
+    height:68px;
+    background-size:cover;
+    display:flex;
+    
+    
+
+}
+.foot{
+    height:77.2px;
+    background-color:#0f1111;
+    color:#ffffff;
+    display:flex;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:center;
+}
+.foot p{
+    margin-top:0px;
+    font-size:12px;
+    margin:0px
+}
+#l24{
+    width:100%;
+    text-align:center;
+    
+    margin-bottom:0px;
+    margin-top:10px;
+}
